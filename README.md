@@ -114,3 +114,65 @@ Top engaging countries:
 - United Kingdom
 
 - Australia
+
+
+## Time Trends
+
+- Peak Engagement Day: Wednesday
+
+- Peak Engagement Time: Evening
+
+- Lowest engagement: Morning and late night
+
+
+## ✔️ Recommendations
+Target Audience Optimization
+
+- Focus on the 18–34 age group.
+
+- Prioritize male audiences due to higher engagement.
+
+# Creative Strategy
+
+- Invest more in Story ads.
+
+- Improve or shorten video ads for better performance.
+
+# Geographic Strategy
+
+- Increase budget in top-performing markets:
+- Germany, India, USA, UK.
+
+# Timing Optimization
+
+- Schedule campaigns during evenings.
+
+- Post more on mid-week days.
+
+- Budget Efficiency
+
+- Reallocate spend from low-performing campaigns to high converters.
+
+  ## 🛠️ Tools & Technologies
+
+- Power BI Desktop
+
+- Excel 
+
+- SQL 
+
+- Power Query
+
+- DAX Measures
+
+- Python 
+
+- CSV Datasets
+
+- ChatGPT
+
+
+# 👤 Author
+
+Abhinav M S
+Data Analyst | Power BI | Python | SQL
