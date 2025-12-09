@@ -45,6 +45,6 @@ Based on the analysis, the following strategic actions are recommended to maximi
 
 ***
 
-*For a full, professional data analysis report, including the detailed rationale for these recommendations, please refer to the attached `marketing_dashboard_report_revised.md` file.*
+*For a full, professional data analysis report, including the detailed rationale for these recommendations, please refer to the attached `mainprojectforweb.pbix` file .*
 
 
